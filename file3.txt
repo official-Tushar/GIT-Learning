@@ -1,1 +1,2 @@
 Tis is file3.
+Adding another line in file 3.
