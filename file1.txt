@@ -1,1 +1,2 @@
 This is file1.
+I am adding more content to this file.
